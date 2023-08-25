@@ -1,4 +1,4 @@
-<h1 align="center">Oi✌️, me chamo Lucas</h1>
+<h1 align="center">Oi, me chamo Lucas✌️</h1>
 <h3 align="center">Estudando para me tornar full stack</h3><hr>
 
 - 🌱 Estou estudando **HTML, CSS, Java, Javascript e Figma.**
