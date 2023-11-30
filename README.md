@@ -3,7 +3,7 @@
 
 - 🌱 Estou estudando **HTML, CSS, Java, Javascript e Figma.**
 
-- 👨‍💻 Meus projetos estão em [https://www.linkedin.com/in/lucas-mendes-57b484205/](https://www.linkedin.com/in/lucas-mendes-57b484205/)
+- 👨‍💻 Meus projetos, cursos e conquistas estão em [https://www.linkedin.com/in/lucas-mendes-57b484205/](https://www.linkedin.com/in/lucas-mendes-57b484205/)
 
 - 💬 Sobre mim **Trabalho como suporte em: www.pokexgames.com**
 
